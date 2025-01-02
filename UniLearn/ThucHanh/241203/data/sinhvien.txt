@@ -1,0 +1,4 @@
+1 Nguyen_Van_A nam Thaibinh K69A2 9
+2 Pham_Thi_B nu Namdinh K69A3 8
+3 Nguyen_Van_C nam Thanhhoa K69A3 5.5
+4 Pham_Thi_Mai nu Haiphong K69A2  6.5

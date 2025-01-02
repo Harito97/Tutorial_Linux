@@ -1,0 +1,38 @@
+This
+abc This is an exercise This is an exercise
+
+1
+5
+3
+Name
+2769
+10
+2
+4
+8
+string
+class
+0
+100
+1000
+1555
+20
+This is an exerciseThis is an exercise. 
+T check This is an exercise about regular expression. This is an exercise in Linux.
+This is an exercise about regular expression. This is an exercise in Linux.
+aba
+baab
+caba
+-1
+010
+ia10
+a1a
+1a01
+11a3
+11000
+111100
+111110
+100000
+1000000
+101000
+

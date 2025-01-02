@@ -1,0 +1,2 @@
+Ôn tập các thao tác trên tệp tin và thư mục
+thực hành các bài tập về lập trình shell
